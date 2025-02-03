@@ -1,0 +1,7 @@
+.container-fondo{
+    height: 65vh; 
+    background-image: url(/assets/logo.png);
+    background-size: cover; /* Hace que la imagen cubra todo el div */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+    background-position: center;
+}

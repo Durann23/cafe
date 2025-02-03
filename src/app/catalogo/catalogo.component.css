@@ -1,0 +1,28 @@
+.arabica{
+    height: 30vh; 
+    background-image: url(/assets/arabica.jpeg);
+    background-size: cover; /* Hace que la imagen cubra todo el div */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+    background-position: center;
+}
+.robusta{
+    height: 30vh; 
+    background-image: url(/assets/robusta.jpeg);
+    background-size: cover; /* Hace que la imagen cubra todo el div */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+    background-position: center;
+}
+.liberica{
+    height: 30vh; 
+    background-image: url(/assets/liberica.jpg);
+    background-size: cover; /* Hace que la imagen cubra todo el div */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+    background-position: center;
+}
+.excelsa{
+    height: 30vh; 
+    background-image: url(/assets/excelsa.avif);
+    background-size: cover; /* Hace que la imagen cubra todo el div */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+    background-position: center;
+}
